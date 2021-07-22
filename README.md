@@ -1,6 +1,6 @@
 👋 Hi, I’m @agungjsp
 
-📫 Here is, how to reach me at:
+📫 Get in touch with me:
 - 📷 Instagram: @gungjayyyy
 - #️⃣ Twitter: @gungjayyyy
 
