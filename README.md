@@ -7,5 +7,5 @@
 
 ## Github Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungjsp&layout=compact&theme=city_lights)](https://github.com/agungjsp/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=agungjsp&theme=city_lights&hide=stars,issues&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungjsp&layout=compact&theme=city_lights)](https://github.com/agungjsp)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=agungjsp&theme=city_lights&hide=stars,issues&show_icons=true)](https://github.com/agungjsp)
