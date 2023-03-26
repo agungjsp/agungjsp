@@ -1,4 +1,4 @@
-👋 Hi, I’m @agungjsp
+# 👋 Hi there, I’m Agung
 
 📫 Get in touch with me:<br/><br/>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gungjayyy/)
