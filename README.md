@@ -1,5 +1,6 @@
-# 👋 Hi there, I’m Agung
+# 👋 Hi there, I’m Agung Jayasukma Prasetiyo
 
+💼 My company-specific GitHub account [@ajp-ic-sg](https://github.com/ajp-ic-sg)<br/><br/>
 📫 Get in touch with me:<br/><br/>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gungjayyy/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gungjayyy/)
