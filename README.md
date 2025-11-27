@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-Hey! I'm **Agung** — a developer based in Indonesia who enjoys building things for the web.
+Hey! I'm **Agung** a developer based in Indonesia who enjoys building things for the web.
 
 I spend most of my time crafting clean, user-friendly applications and exploring new technologies. When I'm not coding, you'll probably find me grabbing coffee ☕, taking photos 📸, or diving into a good podcast 🎧.
 
