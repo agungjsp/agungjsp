@@ -79,13 +79,8 @@ Currently working on exciting projects at [@ajp-ic-sg](https://github.com/ajp-ic
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agungjsp/agungjsp/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agungjsp/agungjsp/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/agungjsp/agungjsp/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
+![github-user-contribution](https://github.com/user-attachments/assets/45c4b245-7ecb-4a91-ae04-f4844869ce76)
+
 
 <br/>
 
